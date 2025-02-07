@@ -60,5 +60,3 @@ This utility will provide a valuable tool for basic file management tasks and se
 
 
 
-
-Gemini can make mistakes, so doubl
